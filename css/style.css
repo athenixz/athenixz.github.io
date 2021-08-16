@@ -22,6 +22,24 @@ body {
 	font-family: "Raleway", Sans-serif;
 }
 
+
+ul{
+    margin-top: 2rem;
+}
+li{
+    text-align: start;
+    list-style: none;
+    margin-bottom: 1rem;
+}
+.link{
+    color: black;
+    font-weight: bold;
+    font-size: 2rem;
+    margin: 0;
+}
+
+
+
 h1,
 h2,
 h3,
